@@ -1,27 +1,15 @@
 # homebrew-space
 
-Homebrew tap.
+The Homebrew tap for the `space` CLI.
 
-## Installation
+The first release has not shipped yet. This tap carries no formula
+until it does, so `brew install` has nothing to install here today.
+
+When the release ships, installing is:
 
 ```bash
 brew tap parsimoni-labs/space
-```
-
-## Available Formulas
-
-| Formula | Description |
-|---------|-------------|
-| `space` | SpaceOS CLI: build and boot SpaceOS VMs |
-
-## Usage
-
-```bash
-# Install pre-built binaries
 brew install space
-
-# Or build from source
-brew install --HEAD space
 ```
 
 ## License
