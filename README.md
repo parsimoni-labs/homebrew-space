@@ -1,6 +1,6 @@
-# homebrew-monopam
+# homebrew-space
 
-Homebrew tap for OCaml tools.
+Homebrew tap.
 
 ## Installation
 
@@ -12,14 +12,14 @@ brew tap parsimoni-labs/space
 
 | Formula | Description |
 |---------|-------------|
-| `space` | SpaceOS CLI — build and boot SpaceOS VMs |
-| `space-ground` | SpaceOS ground station with live web dashboard |
+| `space` | SpaceOS CLI: build and boot SpaceOS VMs |
+| `space-ground` | SpaceOS ground station with live web dashboard (retired) |
 
 ## Usage
 
 ```bash
 # Install pre-built binaries
-brew install space space-ground
+brew install space
 
 # Or build from source
 brew install --HEAD space
@@ -27,4 +27,4 @@ brew install --HEAD space
 
 ## License
 
-ISC
+LicenseRef-Proprietary
