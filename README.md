@@ -13,7 +13,6 @@ brew tap parsimoni-labs/space
 | Formula | Description |
 |---------|-------------|
 | `space` | SpaceOS CLI: build and boot SpaceOS VMs |
-| `space-ground` | SpaceOS ground station with live web dashboard (retired) |
 
 ## Usage
 
