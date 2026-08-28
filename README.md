@@ -2,8 +2,7 @@
 
 The Homebrew tap for `space`, the SpaceOS CLI.
 
-*Pre-release: the first `space` bottle lands here with the 1.0
-release.*
+*Pre-release: the first `space` bottle lands here with the first release.*
 
 ## Installation
 
